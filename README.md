@@ -15,13 +15,6 @@
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=white" alt="Power BI"/>
 </p>
 
----
-
-## 📈 **Projetos em Destaque**
-
-- **[Análise de Dados com Python](https://github.com/ThamaraCrispim/Analise-Dados-Python)**
-- **[Visualização de Dados com R](https://github.com/ThamaraCrispim/Visualizacao-Dados-R)**
-- **[Dashboards no Power BI](https://github.com/ThamaraCrispim/Power-BI-Dashboards)**
 
 ---
 
