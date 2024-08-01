@@ -1,4 +1,4 @@
-# Olá! Eu sou a Thamara Wundervald 👩‍💻 🇧🇷
+# Olá! Eu sou a Thamara Bezerra 👩‍💻 🇧🇷
 
 📫 **Contato:** [thamaragabriela26@gmail.com](mailto:thamaragabriela26@gmail.com) | [Portfólio]()
 
