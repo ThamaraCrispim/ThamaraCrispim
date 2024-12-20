@@ -12,11 +12,9 @@ Estou expandindo meus conhecimentos em desenvolvimento front-end, com foco em HT
 
 ## 📚 Experiências e Estudos
 - **Grupo PANDA UFSCar**: Desenvolvimento de projetos focados em análise e visualização de dados.
-- **Cursos Técnicos**: Atualmente realizando um curso técnico em Informática para Internet pelo IFSC, aprimorando meu currículo acadêmico.
-
 
 ## 🌟 Conecte-se comigo
 - [LinkedIn](https://www.linkedin.com/in/thamaragbezerra/)
-- [GitHub](https://github.com/ThamaraCrispim)
+
 
 Fique à vontade para explorar meus repositórios e entrar em contato! 🚀
