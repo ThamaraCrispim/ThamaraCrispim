@@ -1,50 +1,27 @@
-<h2 align="left">Hi 👋! My name is Thamara Crispim and I'm a Statistics student passionate about data analysis and programming, from Brazil.</h2>
+# 👋 Olá! Seja bem-vindo ao meu perfil GitHub
 
-###
+Sou Thamara Crispim, estudante de Estatística na Universidade Federal de São Carlos (UFSCar), com uma paixão pela análise e interpretação de dados. Atualmente, faço parte do grupo de estudos PANDA UFSCar, onde venho aprimorando minhas habilidades em SQL, Python e R para exploração e análise de dados de forma eficaz.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThamaraCrispim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThamaraCrispim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+Estou expandindo meus conhecimentos em desenvolvimento front-end, com foco em HTML, CSS e JavaScript, buscando aprimorar minha programação e as técnicas de visualização de dados. Além disso, estou explorando áreas como bioestatística e mercado financeiro para direcionar minha carreira após a graduação.
 
-###
+## 🚀 Habilidades
+- 📊 Estatística aplicada
+- 💻 Linguagens: Python, R, SQL
+- 🌐 Desenvolvimento Front-End: HTML, CSS, JavaScript
+- 📈 Métodos numéricos e análise de dados
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
+## 📚 Experiências e Estudos
+- **Grupo PANDA UFSCar**: Desenvolvimento de projetos focados em análise e visualização de dados.
+- **Capoeira**: Experiência em ensino e atividades recreativas durante o ensino médio.
+- **Cursos Técnicos**: Atualmente realizando um curso técnico em Informática para Internet pelo IFSC, aprimorando meu currículo acadêmico.
 
-###
+## 🌱 Projetos Recentes
+- Aplicações de métodos numéricos (Regra do Simpson 1/3, ajuste de polinômios)
+- Repositórios de aprendizado em Python e ferramentas de análise de dados.
+- Criação de repositórios didáticos para armazenar cursos e materiais estudados.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sql logo" />
-</div>
+## 🌟 Conecte-se comigo
+- [LinkedIn](https://www.linkedin.com/in/thamaragbezerra/)
+- [GitHub](https://github.com/ThamaraCrispim)
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/thamaragbezerra/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="mailto:thamaragabriela26@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://github.com/ThamaraCrispim" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ThamaraCrispim/ThamaraCrispim/output/snake.svg" alt="Snake animation" />
-
-###
+Fique à vontade para explorar meus repositórios e entrar em contato! 🚀
