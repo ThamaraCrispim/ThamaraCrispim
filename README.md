@@ -1,46 +1,50 @@
-# Olá! Eu sou a Thamara Bezerra 👩‍💻 🇧🇷  
+<h2 align="left">Hi 👋! My name is Thamara Crispim and I'm a Statistics student passionate about data analysis and programming, from Brazil.</h2>
 
-🎓 **Estudante de Estatística** na Universidade Federal de São Carlos (UFSCar)  
-📊 Apaixonada por **análise e interpretação de dados**  
-💻 Explorando o mundo da **tecnologia** e **programação**  
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThamaraCrispim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThamaraCrispim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
 
-## 💡 Sobre mim  
+###
 
-- 📘 **Atualmente**: Sou integrante do grupo de estudos **PANDA UFSCar**, onde desenvolvo habilidades práticas em **SQL**, **Python** e **R**, aplicando técnicas eficazes para análise de dados.  
-- 🌐 **Front-end**: Estou expandindo meus conhecimentos em **desenvolvimento front-end** (HTML, CSS e JavaScript) para melhorar minhas habilidades em visualização de dados.  
-- 🚀 **Interesses**: Bioestatística, Ciência de Dados e Desenvolvimento Web.  
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
 
----
+###
 
-## 🔧 Minhas Habilidades  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sql logo" />
+</div>
 
-### 🛠️ Ferramentas e Tecnologias  
-- **Programação e Análise de Dados**: Python, R, SQL  
-- **Desenvolvimento Web**: HTML5, CSS3, JavaScript (básico)  
-- **Outros**: Git/GitHub, Power BI  
+###
 
-### 📚 Estudando Atualmente  
-- **Desenvolvimento Front-end**  
-- **Visualização de Dados**  
+<div align="left">
+  <a href="https://www.linkedin.com/in/thamaragbezerra/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:thamaragabriela26@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://github.com/ThamaraCrispim" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+  </a>
+</div>
 
----
+###
 
-## 🌐 Conecte-se comigo  
+<br clear="both">
 
-- 📧 Email: thamaragabriela26@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/thamaragbezerra/)  
-- 🖥️ [Kaggle](https://www.kaggle.com/thamaracrispim)  
-- 📂 [Portfólio no GitHub](https://github.com/ThamaraCrispim)  
+<img src="https://raw.githubusercontent.com/ThamaraCrispim/ThamaraCrispim/output/snake.svg" alt="Snake animation" />
 
----
-
-## 📈 Minhas Estatísticas no GitHub  
-
-![Thamara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThamaraCrispim&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamaraCrispim&layout=compact&theme=radical)  
-
----
-
-✨ **“Transformando dados em decisões inteligentes!”**  
+###
