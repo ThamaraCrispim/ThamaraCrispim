@@ -12,13 +12,8 @@ Estou expandindo meus conhecimentos em desenvolvimento front-end, com foco em HT
 
 ## 📚 Experiências e Estudos
 - **Grupo PANDA UFSCar**: Desenvolvimento de projetos focados em análise e visualização de dados.
-- **Capoeira**: Experiência em ensino e atividades recreativas durante o ensino médio.
 - **Cursos Técnicos**: Atualmente realizando um curso técnico em Informática para Internet pelo IFSC, aprimorando meu currículo acadêmico.
 
-## 🌱 Projetos Recentes
-- Aplicações de métodos numéricos (Regra do Simpson 1/3, ajuste de polinômios)
-- Repositórios de aprendizado em Python e ferramentas de análise de dados.
-- Criação de repositórios didáticos para armazenar cursos e materiais estudados.
 
 ## 🌟 Conecte-se comigo
 - [LinkedIn](https://www.linkedin.com/in/thamaragbezerra/)
